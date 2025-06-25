@@ -1,0 +1,4 @@
+Tắt phần mềm đang chạy.
+
+Tìm đến thư mục phần mềm, coppy 2 file kia đè vào
+Và chạy lại phần mềm
